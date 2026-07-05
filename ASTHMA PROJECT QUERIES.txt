@@ -3,7 +3,7 @@
 -- Data Source: New York State Department of Health
 -- Dataset: NYS Asthma Emergency Department Visits & Hospitalizations
 -- Period: 2000-2019
--- Analyst: [Your Name]
+-- Analyst: [Aluku Abdullah Ololade]
 -- ============================================
 
 
